@@ -139,6 +139,20 @@ h4 {
   margin-bottom: 0;
 }
 
+h5 {
+  font-size: 1.1em;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  margin-bottom: 0;
+}
+
+pre {
+  background-color: #f7f7f7;
+  padding: 16px;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
 .footer {
   margin-top: 50px;
   padding: 50px 0;
