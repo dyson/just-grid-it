@@ -12,5 +12,6 @@
     "css",
     "grid"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "ignore": []
 }
